@@ -2,6 +2,8 @@
 
 🔥 **FireNBM** là một trò chơi chiến thuật thời gian thực (**RTS**) lấy cảm hứng từ *StarCraft 2*, nơi người chơi xây dựng căn cứ, quản lý tài nguyên và điều khiển quân đội chiến đấu để giành chiến thắng!
 
+## 🎬 Video Demo 
+  - [Video demo game FireNBM trên YouTube](https://youtu.be/f_69SS5DXQw)
 
 ## 🕹️ Cách chơi
 1️⃣ **Xây dựng căn cứ** – Đặt công trình bằng UI hoặc phím tắt.  
